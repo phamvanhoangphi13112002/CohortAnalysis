@@ -1,4 +1,5 @@
 # Customer Cohort Analysis Project
+View my full process of this project on my portfolio website: [Here](https://hoangphipv.id.vn/project4.html)
 
 Welcome to the **Customer Cohort Analysis Project**! In this project, I delve into the world of data analysis to conduct a comprehensive **Cohort Analysis** of customer behavior. I'll use a combination of **Python** for data cleaning, **SQL** for analysis, and **Power BI** for effective visualization.
 
